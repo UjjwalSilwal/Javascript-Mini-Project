@@ -8,3 +8,6 @@
   <li>DOM manipulation</li>
   <li>onClick Functionality</li>
 </ul>
+
+# Deployment : 
+[https://javascript-mini-project-silk.vercel.app/]
