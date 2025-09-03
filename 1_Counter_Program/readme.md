@@ -2,3 +2,9 @@
 <p align="center">
   <img src="counterProgramOutput.png" alt="" width="80%">
 </p>
+
+<h3>IN THIS PROJECT I HAVE USE THE FOLLOWING CONCEPT OF JAVASCRIPT</h3>
+<ul>
+  <li>DOM manipulation</li>
+  <li>onClick Functionality</li>
+</ul>
